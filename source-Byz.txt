@@ -1,0 +1,54 @@
+Book: Matt
+Book: Mark
+Book: Luke
+Book: John
+Book: Acts
+Book: Rom
+Book: 1Cor
+Book: 2Cor
+Book: Gal
+Book: Eph
+Book: Phil
+Book: Col
+Book: 1Thess
+Book: 2Thess
+Book: 1Tim
+Book: 2Tim
+Book: Titus
+Book: Phlm
+Book: Heb
+Book: Jas
+Book: 1Pet
+Book: 2Pet
+Book: 1John
+Book: 2John
+Book: 3John
+Book: Jude
+Book: Rev
+Book-Name-Map: Matt, Máté
+Book-Name-Map: Mark, Márk
+Book-Name-Map: Luke, Lukács
+Book-Name-Map: John, János
+Book-Name-Map: Acts, Apcsel
+Book-Name-Map: Rom, Róma
+Book-Name-Map: 1Cor, 1 Korinthus
+Book-Name-Map: 2Cor, 2 Korinthus
+Book-Name-Map: Gal, Galata
+Book-Name-Map: Eph, Efézus
+Book-Name-Map: Phil, Filippi
+Book-Name-Map: Col, Kolossé
+Book-Name-Map: 1Thess, 1 Thesszalonika
+Book-Name-Map: 2Thess, 2 Thesszalonika
+Book-Name-Map: 1Tim, 1 Timóteus
+Book-Name-Map: 2Tim, 2 Timóteus
+Book-Name-Map: Titus, Titusz
+Book-Name-Map: Phlm, Filemon
+Book-Name-Map: Heb, Zsidók
+Book-Name-Map: Jas, Jakab
+Book-Name-Map: 1Pet, 1 Péter
+Book-Name-Map: 2Pet, 2 Péter
+Book-Name-Map: 1John, 1 János
+Book-Name-Map: 2John, 2 János
+Book-Name-Map: 3John, 3 János
+Book-Name-Map: Jude, Júdás
+Book-Name-Map: Rev, Jelenések

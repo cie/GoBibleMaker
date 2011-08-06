@@ -1,0 +1,54 @@
+Book: Mt
+Book: Mk
+Book: Lk
+Book: Jn
+Book: Csel
+Book: Róm
+Book: 1Kor
+Book: 2Kor
+Book: Gal
+Book: Ef
+Book: Fil
+Book: Kol
+Book: 1Thessz
+Book: 2Thessz
+Book: 1Tim
+Book: 2Tim
+Book: Tit
+Book: Filem
+Book: Zsid
+Book: Jak
+Book: 1Pt
+Book: 2Pt
+Book: 1Jn
+Book: 2Jn
+Book: 3Jn
+Book: Júd
+Book: Jel
+Book-Name-Map: Mt, Máté
+Book-Name-Map: Mk, Márk
+Book-Name-Map: Lk, Lukács
+Book-Name-Map: Jn, János
+Book-Name-Map: Csel, Apcsel
+Book-Name-Map: Róm, Róma
+Book-Name-Map: 1Kor, 1 Korinthus
+Book-Name-Map: 2Kor, 2 Korinthus
+Book-Name-Map: Gal, Galata
+Book-Name-Map: Ef, Efézus
+Book-Name-Map: Fil, Filippi
+Book-Name-Map: Kol, Kolossé
+Book-Name-Map: 1Thessz, 1 Thesszalonika
+Book-Name-Map: 2Thessz, 2 Thesszalonika
+Book-Name-Map: 1Tim, 1 Timóteus
+Book-Name-Map: 2Tim, 2 Timóteus
+Book-Name-Map: Tit, Titusz
+Book-Name-Map: Filem, Filemon
+Book-Name-Map: Zsid, Zsidók
+Book-Name-Map: Jak, Jakab
+Book-Name-Map: 1Pt, 1 Péter
+Book-Name-Map: 2Pt, 2 Péter
+Book-Name-Map: 1Jn, 1 János
+Book-Name-Map: 2Jn, 2 János
+Book-Name-Map: 3Jn, 3 János
+Book-Name-Map: Júd, Júdás
+Book-Name-Map: Jel, Jelenések

@@ -1,0 +1,78 @@
+Book: Gen
+Book: Exod
+Book: Lev
+Book: Num
+Book: Deut
+Book: Josh
+Book: Judg
+Book: Ruth
+Book: 1Sam
+Book: 2Sam
+Book: 1Kgs
+Book: 2Kgs
+Book: 1Chr
+Book: 2Chr
+Book: Ezra
+Book: Neh
+Book: Esth
+Book: Job
+Book: Ps
+Book: Prov
+Book: Eccl
+Book: Song
+Book: Isa
+Book: Jer
+Book: Lam
+Book: Ezek
+Book: Dan
+Book: Hos
+Book: Joel
+Book: Amos
+Book: Obad
+Book: Jonah
+Book: Mic
+Book: Nah
+Book: Hab
+Book: Zeph
+Book: Hag
+Book: Zech
+Book: Mal
+Book-Name-Map: Gen, sezóM 1
+Book-Name-Map: Exod, sezóM 2
+Book-Name-Map: Lev, sezóM 3
+Book-Name-Map: Num, sezóM 4
+Book-Name-Map: Deut, sezóM 5
+Book-Name-Map: Josh, éuszóJ
+Book-Name-Map: Judg, káríB
+Book-Name-Map: Ruth, htuR
+Book-Name-Map: 1Sam, leumáS 1
+Book-Name-Map: 2Sam, leumáS 2
+Book-Name-Map: 1Kgs, koyláriK 1
+Book-Name-Map: 2Kgs, koyláriK 2
+Book-Name-Map: 1Chr, kákinórK 1
+Book-Name-Map: 2Chr, kákinórK 2
+Book-Name-Map: Ezra, sárdszE
+Book-Name-Map: Neh, sáimáheN
+Book-Name-Map: Esth, retzsE
+Book-Name-Map: Job, bóJ
+Book-Name-Map: Ps, korátlosZ
+Book-Name-Map: Prov, kedézsebadléP
+Book-Name-Map: Eccl, rotákidérP
+Book-Name-Map: Song, ekené kekenÉ
+Book-Name-Map: Isa, sáiaszÉ
+Book-Name-Map: Jer, sáimereJ
+Book-Name-Map: Lam, iamlaris sáimereJ
+Book-Name-Map: Ezek, leikézE
+Book-Name-Map: Dan, leináD
+Book-Name-Map: Hos, sáesóH
+Book-Name-Map: Joel, leóJ
+Book-Name-Map: Amos, zsómÁ
+Book-Name-Map: Obad, sáidbA
+Book-Name-Map: Jonah, sánóJ
+Book-Name-Map: Mic, sáekiM
+Book-Name-Map: Nah, muháN
+Book-Name-Map: Hab, kukabaH
+Book-Name-Map: Zeph, sáinófoZ
+Book-Name-Map: Hag, sueggaH
+Book-Name-Map: Zech, sáirakaZ
+Book-Name-Map: Mal, sáikalaM

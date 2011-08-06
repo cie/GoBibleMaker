@@ -1,0 +1,146 @@
+Book: Ter
+Book: Kiv
+Book: Lev
+Book: Szám
+Book: MTörv
+Book: Józs
+Book: Bir
+Book: Rut
+Book: 1Sám
+Book: 2Sám
+Book: 1Kir
+Book: 2Kir
+Book: 1Krón
+Book: 2Krón
+Book: Ezd
+Book: Neh
+Book: Tób
+Book: Jud
+Book: Eszt
+Book: 1Mak
+Book: 2Mak
+Book: Jób
+Book: Zsolt
+Book: Péld
+Book: Préd
+Book: Én
+Book: Bölcs
+Book: Sir
+Book: Iz
+Book: Jer
+Book: Siral
+Book: Bár
+Book: Ez
+Book: Dán
+Book: Oz
+Book: Jo
+Book: Ám
+Book: Abd
+Book: Jón
+Book: Mik
+Book: Náh
+Book: Hab
+Book: Szof
+Book: Ag
+Book: Zak
+Book: Mal
+Book: Mt
+Book: Mk
+Book: Lk
+Book: Jn
+Book: ApCsel
+Book: Róm
+Book: 1Kor
+Book: 2Kor
+Book: Gal
+Book: Ef
+Book: Fil
+Book: Kol
+Book: 1Tessz
+Book: 2Tessz
+Book: 1Tim
+Book: 2Tim
+Book: Tit
+Book: Filem
+Book: Zsid
+Book: Jak
+Book: 1Pét
+Book: 2Pét
+Book: 1Jn
+Book: 2Jn
+Book: 3Jn
+Book: Júd
+Book: Jel
+Book-Name-Map: Ter, Teremtés
+Book-Name-Map: Kiv, Kivonulás
+Book-Name-Map: Lev, Leviták
+Book-Name-Map: Szám, Számok
+Book-Name-Map: MTörv, Második TörvK
+Book-Name-Map: Józs, Józsue
+Book-Name-Map: Bir, Bírák
+Book-Name-Map: Rut, Rut
+Book-Name-Map: 1Sám, 1Sámuel
+Book-Name-Map: 2Sám, 2Sámuel
+Book-Name-Map: 1Kir, 1Királyok
+Book-Name-Map: 2Kir, 2Királyok
+Book-Name-Map: 1Krón, 1Krónikák
+Book-Name-Map: 2Krón, 2Krónikák
+Book-Name-Map: Ezd, Ezdrás
+Book-Name-Map: Neh, Nehemiás
+Book-Name-Map: Tób, Tóbiás
+Book-Name-Map: Jud, Judit
+Book-Name-Map: Eszt, Eszter
+Book-Name-Map: 1Mak, 1Makkabeusok
+Book-Name-Map: 2Mak, 2Makkabeusok
+Book-Name-Map: Jób, Jób
+Book-Name-Map: Zsolt, Zsoltárok
+Book-Name-Map: Péld, Példabeszédek
+Book-Name-Map: Préd, Prédikátor
+Book-Name-Map: Én, Énekek éneke
+Book-Name-Map: Bölcs, Bölcsesség
+Book-Name-Map: Sir, Sirák fia
+Book-Name-Map: Iz, Izajás
+Book-Name-Map: Jer, Jeremiás
+Book-Name-Map: Siral, Siralmak
+Book-Name-Map: Bár, Báruk
+Book-Name-Map: Ez, Ezekiel
+Book-Name-Map: Dán, Dániel
+Book-Name-Map: Oz, Ozeás
+Book-Name-Map: Jo, Joel
+Book-Name-Map: Ám, Ámosz
+Book-Name-Map: Abd, Abdiás
+Book-Name-Map: Jón, Jónás
+Book-Name-Map: Mik, Mikeás
+Book-Name-Map: Náh, Náhum
+Book-Name-Map: Hab, Habakuk
+Book-Name-Map: Szof, Szofoniás
+Book-Name-Map: Ag, Aggeus
+Book-Name-Map: Zak, Zakariás
+Book-Name-Map: Mal, Malakiás
+Book-Name-Map: Mt, Máté
+Book-Name-Map: Mk, Márk
+Book-Name-Map: Lk, Lukács
+Book-Name-Map: Jn, János
+Book-Name-Map: ApCsel, ApCsel
+Book-Name-Map: Róm, Róma
+Book-Name-Map: 1Kor, 1Korintus
+Book-Name-Map: 2Kor, 2Korintus
+Book-Name-Map: Gal, Galata
+Book-Name-Map: Ef, Efezus
+Book-Name-Map: Fil, Filippi
+Book-Name-Map: Kol, Kolossze
+Book-Name-Map: 1Tessz, 1Tesszalonika
+Book-Name-Map: 2Tessz, 2Tesszalonika
+Book-Name-Map: 1Tim, 1Timóteus
+Book-Name-Map: 2Tim, 2Timóteus
+Book-Name-Map: Tit, Titusz
+Book-Name-Map: Filem, Filemon
+Book-Name-Map: Zsid, Zsidók
+Book-Name-Map: Jak, Jakab
+Book-Name-Map: 1Pét, 1Péter
+Book-Name-Map: 2Pét, 2Péter
+Book-Name-Map: 1Jn, 1János
+Book-Name-Map: 2Jn, 2János
+Book-Name-Map: 3Jn, 3János
+Book-Name-Map: Júd, Júdás
+Book-Name-Map: Jel, Jelenések

@@ -1,0 +1,146 @@
+Book: Ter
+Book: Kiv
+Book: Lev
+Book: Szám
+Book: MTörv
+Book: Józs
+Book: Bir
+Book: Rut
+Book: 1Sám
+Book: 2Sám
+Book: 1Kir
+Book: 2Kir
+Book: 1Krón
+Book: 2Krón
+Book: Ezd
+Book: Neh
+Book: Tób
+Book: Jud
+Book: Eszt
+Book: 1Mak
+Book: 2Mak
+Book: Jób
+Book: Zsolt
+Book: Péld
+Book: Préd
+Book: Én
+Book: Bölcs
+Book: Sir
+Book: Iz
+Book: Jer
+Book: Siral
+Book: Bár
+Book: Ez
+Book: Dán
+Book: Oz
+Book: Jo
+Book: Ám
+Book: Abd
+Book: Jón
+Book: Mik
+Book: Náh
+Book: Hab
+Book: Szof
+Book: Ag
+Book: Zak
+Book: Mal
+Book: Mt
+Book: Mk
+Book: Lk
+Book: Jn
+Book: ApCsel
+Book: Róm
+Book: 1Kor
+Book: 2Kor
+Book: Gal
+Book: Ef
+Book: Fil
+Book: Kol
+Book: 1Tessz
+Book: 2Tessz
+Book: 1Tim
+Book: 2Tim
+Book: Tit
+Book: Filem
+Book: Zsid
+Book: Jak
+Book: 1Pét
+Book: 2Pét
+Book: 1Jn
+Book: 2Jn
+Book: 3Jn
+Book: Júd
+Book: Jel
+Book-Name-Map: Ter, Teremtés könyve
+Book-Name-Map: Kiv, Kivonulás könyve
+Book-Name-Map: Lev, Leviták könyve
+Book-Name-Map: Szám, Számok könyve
+Book-Name-Map: MTörv, Második Törvénykönyv
+Book-Name-Map: Józs, Józsue könyve
+Book-Name-Map: Bir, Bírák könyve
+Book-Name-Map: Rut, Rut könyve
+Book-Name-Map: 1Sám, Sámuel I. könyve
+Book-Name-Map: 2Sám, Sámuel II. könyve
+Book-Name-Map: 1Kir, Királyok I. könyve
+Book-Name-Map: 2Kir, Királyok II. könyve
+Book-Name-Map: 1Krón, Krónikák I. könyve
+Book-Name-Map: 2Krón, Krónikák II. könyve
+Book-Name-Map: Ezd, Ezdrás könyve
+Book-Name-Map: Neh, Nehemiás könyve
+Book-Name-Map: Tób, Tóbiás könyve
+Book-Name-Map: Jud, Judit könyve
+Book-Name-Map: Eszt, Eszter könyve
+Book-Name-Map: 1Mak, Makkabeusok I. könyve
+Book-Name-Map: 2Mak, Makkabeusok II. könyve
+Book-Name-Map: Jób, Jób könyve
+Book-Name-Map: Zsolt, Zsoltárok könyve
+Book-Name-Map: Péld, Példabeszédek könyve
+Book-Name-Map: Préd, Prédikátor könyve
+Book-Name-Map: Én, Énekek éneke
+Book-Name-Map: Bölcs, Bölcsesség könyve
+Book-Name-Map: Sir, Sirák fia könyve
+Book-Name-Map: Iz, Izajás könyve
+Book-Name-Map: Jer, Jeremiás könyve
+Book-Name-Map: Siral, Siralmak könyve
+Book-Name-Map: Bár, Báruk könyve
+Book-Name-Map: Ez, Ezekiel könyve
+Book-Name-Map: Dán, Dániel könyve
+Book-Name-Map: Oz, Ozeás könyve
+Book-Name-Map: Jo, Joel könyve
+Book-Name-Map: Ám, Ámosz könyve
+Book-Name-Map: Abd, Abdiás könyve
+Book-Name-Map: Jón, Jónás könyve
+Book-Name-Map: Mik, Mikeás könyve
+Book-Name-Map: Náh, Náhum könyve
+Book-Name-Map: Hab, Habakuk könyve
+Book-Name-Map: Szof, Szofoniás könyve
+Book-Name-Map: Ag, Aggeus könyve
+Book-Name-Map: Zak, Zakariás könyve
+Book-Name-Map: Mal, Malakiás könyve
+Book-Name-Map: Mt, Máté evangéliuma
+Book-Name-Map: Mk, Márk evangéliuma
+Book-Name-Map: Lk, Lukács evangéliuma
+Book-Name-Map: Jn, János evangéliuma
+Book-Name-Map: ApCsel, Apostolok Cselekedetei
+Book-Name-Map: Róm, Rómaiaknak írt levél
+Book-Name-Map: 1Kor, Korintusiaknak írt I. levél
+Book-Name-Map: 2Kor, Korintusiaknak írt II. levél
+Book-Name-Map: Gal, Galatáknak írt levél
+Book-Name-Map: Ef, Efezusiaknak írt levél
+Book-Name-Map: Fil, Filippieknek írt levél
+Book-Name-Map: Kol, Kolosszeieknek írt levél
+Book-Name-Map: 1Tessz, Tesszalonikaiaknak írt I. levél
+Book-Name-Map: 2Tessz, Tesszalonikaiaknak írt II. levél
+Book-Name-Map: 1Tim, Timóteusnak írt I. levél
+Book-Name-Map: 2Tim, Timóteusnak írt II. levél
+Book-Name-Map: Tit, Titusznak írt levél
+Book-Name-Map: Filem, Filemonnak írt levél
+Book-Name-Map: Zsid, Zsidóknak írt levél
+Book-Name-Map: Jak, Szent Jakab levele
+Book-Name-Map: 1Pét, Szent Péter I. levele
+Book-Name-Map: 2Pét, Szent Péter II. levele
+Book-Name-Map: 1Jn, Szent János I. levele
+Book-Name-Map: 2Jn, Szent János II. levele
+Book-Name-Map: 3Jn, Szent János III. levele
+Book-Name-Map: Júd, Szent Júdás levele
+Book-Name-Map: Jel, Jelenések könyve
