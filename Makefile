@@ -85,8 +85,8 @@
 ### Settings
 
 # compositions
-# 	Protestant, Roman Catholic, New Testament, Old Testament, Septuagint (=Roman Catholic Old Testament)
-COMPS = P R N O L
+# 	Protestant, Roman Catholic, New Testament, Old Testament, Septuagint (=Roman Catholic Old Testament), XR (Calvinist Songbook)
+COMPS = P R N O L XR
 
 # translations
 # 	Based on their SWORD module name, if any. Organized by composition.
@@ -94,6 +94,7 @@ P.TRANS = HunKar HunUj NIV
 R.TRANS = HunSztI
 N.TRANS = Byz HunEgy
 O.TRANS = Aleppo
+XR.TRANS = RefEnek
 
 
 # languages
@@ -105,6 +106,7 @@ HunEgy.lang = hu_HU
 NIV.lang = en_US
 Byz.lang = hu_HU
 Aleppo.lang = hu_HU
+RefEnek.lang = hu_HU
 
 # Compositions
 # 	Levels, parts, limits and abbreviations
@@ -201,9 +203,21 @@ R.500k1.end=10
 R.500k2.start=11# 1Kgs
 R.500k2.end=22
 R.500k3.start=23# Psa
-R.500k3.end=34
-R.500k4.start=35# Hos
-R.500k4.end=73
+R.500k3.end=28
+R.500k4.start=29# Isa
+R.500k4.end=46
+R.500k5.start=47# Matt
+R.500k5.end=73
+
+#R.500k1.start=1# Gen
+#R.500k1.end=10
+#R.500k2.start=11# 1Kgs
+#R.500k2.end=22
+#R.500k3.start=23# Psa
+#R.500k3.end=34
+#R.500k4.start=35# Hos
+#R.500k4.end=73
+
 #R.500k1.start=1# Gen
 #R.500k1.end=10
 #R.500k2.start=11# 1Kgs
@@ -295,10 +309,14 @@ Aleppo.abbr-15=Ezsdr
 Aleppo.abbr-20=Peld
 
 
+# Calvinist Songbook
+XR.LEVELS = 
+
+
 
 
 # GoBible version
-GBVER = 2.2.6
+GBVER = 2.4.3
 
 
 
@@ -312,16 +330,15 @@ GB = GoBibleCreator_${GBVER}
 
 # download zip
 ${GB}.zip :
-	wget http://gobible.jolon.org/developer/GoBibleCreator/GoBibleCreator%20${GBVER}.zip
-	mv GoBibleCreator\ ${GBVER}.zip ${GB}.zip
+	wget http://gobible.googlecode.com/files/GoBibleCreator_Version_${GBVER}.zip
+	mv GoBibleCreator_Version_${GBVER}.zip ${GB}.zip
 
 # unpack
 # 	unzip, copy translated ui.properties, rename not to have spaces in filenames,
 # 	delete MacosX files
 unpack : ${GB}.zip 
 	unzip ${GB}.zip
-	rm -R __MACOSX
-	mv GoBibleCreator\ ${GBVER} ${GB}
+	mv GoBibleCreator_Version_${GBVER} ${GB}
 	touch unpack
 
 ### Acquisition of Bible texts
@@ -412,7 +429,7 @@ $2-$3/$2$4-${$2.abbr-${$1.$3$4.start}}.txt: $2.txt
 	grep '^Book:' $2.txt | head -n${$1.$3$4.end} | tail -n+${$1.$3$4.start} >> $2-$3/$2$4-${$2.abbr-${$1.$3$4.start}}.txt
 	grep '^Book-Name-Map:' $2.txt | head -n${$1.$3$4.end} | tail -n+${$1.$3$4.start} >> $2-$3/$2$4-${$2.abbr-${$1.$3$4.start}}.txt
 
-$2-$3/$2$4-${$2.abbr-${$1.$3$4.start}}.jar : $2-$3/$2$4-${$2.abbr-${$1.$3$4.start}}.txt unpack $2.osis
+$2-$3/$2$4-${$2.abbr-${$1.$3$4.start}}.jar : $2-$3/$2$4-${$2.abbr-${$1.$3$4.start}}.txt unpack $2.osis ui.${$2.lang}.properties
 	cp -f ui.${$2.lang}.properties ${GB}/GoBibleCore/ui.properties
 	cd ${GB} && java -Xmx128m -jar GoBibleCreator.jar ../$2-$3/$2$4-${$2.abbr-${$1.$3$4.start}}.txt
 
@@ -428,9 +445,9 @@ $(foreach comp, ${COMPS}, \
 
 # whole collection jarfile rule 
 # 	(split collection jarfile rules are above, in collection rule pattern)
-%.jar %.jad : %.txt unpack %.osis
+%.jar %.jad : %.txt unpack %.osis 
 	cp -f ui.${$*.lang}.properties ${GB}/GoBibleCore/ui.properties
-	cd ${GB} && java -Xmx128m -jar GoBibleCreator.jar ../$<
+	java -Xmx128m -jar ${GB}/GoBibleCreator.jar $<
 
 %.zip : %.jar %.jad
 	zip $*.zip $*.jar $*.jad 
@@ -507,6 +524,8 @@ HunSztI.osis source-HunSztI-fullnames.txt: text-HunSztI.txt txt2osis-HunSztI.pl
 	perl txt2osis-HunSztI.pl text-HunSztI.txt >HunSztI.osis 2>source-HunSztI-fullnames.txt
 NIV.osis source-NIV.txt: text-NIV.txt txt2osis-NIV.pl
 	perl txt2osis-NIV.pl text-NIV.txt >NIV.osis 2>source-NIV.txt
+RefEnek.osis source-RefEnek.txt: text-RefEnek.txt txt2osis-RefEnek.pl
+	perl txt2osis-RefEnek.pl text-RefEnek.txt >RefEnek.osis 2>source-RefEnek.txt
 
 
 test:

@@ -944,7 +944,7 @@ Dicsér téged teljes szívem, Én Istenem, Hirdetem neved. Dicsérlek istenek f
 Öregbül nagy dicsőséged, Mert megtészed, Amit megmondasz. :/: Ha könyörgök ínségemben, Engem menten Megszabadítasz. Téged minden földön lakók, Nagy királyok, Uram, dicsérnek, Mert szent igéd tiszta voltát, Igazságát Eszükbe vették.
 Ez Urat, ki felségesen Csudát teszen, Felmagasztalják. :/: Mondván: nagy ő dicsősége És ereje, Őt azért áldják. Mert noha ül nagy magasan, De lát nyilván Alatt valókat; Magas dolgokat is könnyen, Lát élesen, Mind fent, mind alatt.
 Mindennemű szükségemben, Ínségemben Megerősítesz; :/: Láttukra ellenségimnek, Kik gyűlölnek, Engem megmentesz. Amit az Úr egyszer végez, Az jó véghez megyen mindenütt. Jókedved megáll: ne hagyd el, Sőt végezd el Kezed munkáit!
-Uram, te megvizsgálsz engem
+#C
 Uram, te megvizsgálsz engem, Megismersz mindent énbennem, Vagy állok, ülök, vagy megyek, Mind tudod, amit művelek; Valamit gondolok szívemben, Te azt mind jól érted meszszünnen.
 Vagy járok-kelek, vagy fekszem, Te mindenütt vagy körülem. Jól látod minden utamat, Érted minden dolgaimat; Egy szó sem jő az én nyelvemre, Mit előbb ne tudtál volna te. 
 Körös-körül rajtam minden Tőled vagyon teremtetvén, Reám bocsátád kezedet, Felülmúlja értelmemet. Bölcseséged meg nem foghatom, Dolgaidon csak álmélkodom.
@@ -986,7 +986,7 @@ Tehozzád, én Uram, Istenem, Nagy siralommal felemelem És kinyújtom kezeimet.
 Ne késsél, hallgasd meg kérésem, Mert elfogy bennem az én lelkem! Színed tőlem el ne térjen, Mert immár olyanná kell lennem, Mint aki száll sír mélyében!
 Uram, engemet erősíts meg, Te szent nevedért vigasztalj meg, És a te kegyességedből Az én életem szabadítsd meg Mindennémű ínségekből!
 #C
-Áldott az Úr, ki kezemet ta-nítja, És ujjaimat a hadakozásra, Áldott legyen az én jó Istenem, Aki mindenkor megőriz engem! Ő az én kőváram és szabadítóm, Ő én paizsom és én oltalmazóm. Tebenned vetem reménységemet, Mert alám vetéd az én népemet.
+Áldott az Úr, ki kezemet tanítja, És ujjaimat a hadakozásra, Áldott legyen az én jó Istenem, Aki mindenkor megőriz engem! Ő az én kőváram és szabadítóm, Ő én paizsom és én oltalmazóm. Tebenned vetem reménységemet, Mert alám vetéd az én népemet.
 De micsoda az ember életében, Hogy őreá gondot tartasz ekképpen? Micsodák az emberek fiai, Hogy felséged őket így kedveli? Az emberek dolgát ha megtekinted, Legottan őket csak semminek leled; Az ő napjai hamar elfogynak, És mint az árnyék, ottan elmúlnak.
 #C
 Magasztallak téged, én Istenem, Ó, én királyom, neved tisztelem! Mindennap hirdetem dicséreted, És örökké áldom te szent neved! Igen dicséretes és nagy az Isten, Megfoghatatlan ő dicsőségében. Nemzetről nemzetre te dolgaidat, Mindenkor hirdetik nagy hatalmadat.
@@ -1181,22 +1181,22 @@ Ezután sem hágy el végképen Kivánt segedelme, Sőt, mint fiát, engem akké
 Ha midőn atyai vesszejét Felvonja ellenem, S bölcs dorgálásánaK erejét Kelletik szenvednem: Akkor is lanbdott szivemet Szentlelke bimtja, Hogy rajtam lévő veszélyimet Javamra fordítja.
 Reménységem neveli bennem S bizonyossá tészen, Hogy végre jutalmam épnékem Örök élet lészen, Melyre is készíti lelkemet És hívja magához. Hogy szabjam egész életemet Szent akaratjához.
 Uram, tanits gyarló éltemnek Nagy bünös voltára, Ó vezess én árva fejemnek Szabadítójára: Magamat néki hadd adhassam Lelki ajánlással, Drága jóvoltát felválthassam Méltó hál'adással. 
-
-Fő boldogságom tartom én ebben, Hogy az Úr Jézus tudományát vallom, Ember nem szólott soha bölcsebben, Azért beszédit nagy örömmel hallom. Ezek éltemnek vezéri lévén, Megvfgasztalnak a halálnak révén.
-Ha bűnöm kárhozattal fenyeget, E hitben vetem teljes remény~em, Hogy Megváltóm tett értem eleget; Nem árthat nékem semmi ellenségem. Ő visel gondot úgy életemről, Hogy egy hajszál sem esik le fejemről.
-Megfoghatatlan nagy szerelmével Jézuso.m úgy vont kebelére engem, Hogy lelkem-testem tehetségével Őneki örök tulajdona lettem. Szent akaratját örömest, készen Teljesfteni leafőbb gondom lészen.
-Add Uram, Kérlek, tudomásomra, Hogy nyavalyámnak okát hol keressem, Hogy óhajtott szabadu­lásomra Segedelmeddel hadd törekedhessem. Jótéte­ményed mily csudálatos 1 Oktass, hogy légyek hozzád háládatos.
-
-Mennybéli Úr Isten, hallgass meg engemet az én könyörgésemben, Ne hagyj el engemet ily nagy nyavalyámban, tekints meg szükségemben; A nagy bánat miatt már adj vfgasságot az én nagy bús szfvem­ben, A te Szentlelkeddel vigasztalj meg kérlek, én keserűségemben.
-Jól tudom, micsoda nagy okai vannak én nyomorúságomnak: Mert az álnok világ hfzelkedésinek, hittem csplárdságánakj Az ő szép szavának, sok aján­dékának, nékem kik bÚt hozának, Enaemet mindenben ez világ kedvébe: jaj, Ím mibe hajtának!
-Jaj nékem, bünösnek és gyarló embernek, ha rajtam nem könyöriilsz, Az. én nagy bfinömért, hatalmas Istenem, nékem meg nem kegyelmezsz ; Soha nem lehet igy nékem vígasságom, hogyha bfinöm szerint versz, Már minek örüljek, felséges Ur Isten, ha velem jól nem tészesz?
-Hová legyek Uram, ha elhagysz engemet, kihez hajtsam fejemet? Föld kerekségében sehol nem találom, kire bízzam lelkemet; Nincsen itt e földön, ki elvenné rólam az én nagy sok bfinömet, De nagy félelemmel te hozzád kiáltok:- hallgasd meg kérésemet.
-Hová legyek immár, hatalmas Istenem, ily fogyott életemmel? Mert lám, Uram, hozzád sokszor felldálték keservcs beszédemmel; Miért nyomoritál, én édes Istenem, most ez keserliséggel? Mit használok immár itt ez világ szerint bujdosó életemmel?
-Ó miért te, Uram, ennyi sok ideig a te szent személyedet, Reám nem forditád kegyelmedből a te kegyességedet? Én siralmim elOl eIforditád, Uranl, a te szent füleidet; De ha meghallgatnál, megvigasztal­hatnád az én nagy bús szivemet.
-Ne útálj meg, Uram, én sok bfineimért, szám­talan esetimért, Mert méltónak vallom magamat min­denkor az én undokságimért A megbüntetésre és fel­serkentésre az én kényességimért; De nem vetsz el, Uram, szent szemeid elOI az én érdemem szerént.
-Ezen kérlek téged, mennynek-földnek Ura, kirá­lyoknak Királya, Hogy mig e világban éltemet kívánod, azt csak Szentlelked. birja, Minden dolgaimat és én útaimat szüntelen igazgassa, Hogy te szent nevedet hozzám jóvoltodért én lelkem magasztalja.
-Ne bánkódjál lelkem, ne hagyd el magadat nagy keserfi~edben, Ó én édes szivem, mit keseregsz bennem ily Igen életedben? Hagyd el a bánatot, végy nagy vígasságot a hatalmas IsteIilien: A nagy bánat-helyett ő ád jó örömet a Szentlélek Istenben.
-Dicsőség tenéked, Inagasságban, Isten, királyoknak Királya! Dicséret mondassék néked, Krisztus Jézus, minden uraknak Ural Velük egyetemben Szentlélek Úr Isten, mi lelkünknek világa: Teljes Szent­háromság, egy bizony Istenség, lelkeimnek boldogsága!
+#C
+Fő boldogságom tartom én ebben, Hogy az Úr Jézus tudományát vallom, Ember nem szólott soha bölcsebben, Azért beszédit nagy örömmel hallom. Ezek éltemnek vezéri lévén, Megvigasztalnak a halálnak révén.
+Ha bűnöm kárhozattal fenyeget, E hitben vetem teljes reményem, Hogy Megváltóm tett értem eleget; Nem árthat nékem semmi ellenségem. Ő visel gondot úgy életemről, Hogy egy hajszál sem esik le fejemről.
+Megfoghatatlan nagy szerelmével Jézusom úgy vont kebelére engem, Hogy lelkem-testem tehetségével Őneki örök tulajdona lettem. Szent akaratját örömest, készen Teljesíteni legfőbb gondom lészen.
+Add Uram, Kérlek, tudomásomra, Hogy nyavalyámnak okát hol keressem, Hogy óhajtott szabadulásomra Segedelmeddel hadd törekedhessem. Jótéteményed mily csudálatos Oktass, hogy légyek hozzád háládatos.
+#C
+Mennybéli Úr Isten, hallgass meg engemet az én könyörgésemben, Ne hagyj el engemet ily nagy nyavalyámban, tekints meg szükségemben; A nagy bánat miatt már adj vigasságot az én nagy bús szívemben, A te Szentlelkeddel vigasztalj meg kérlek, én keserűségemben.
+Jól tudom, micsoda nagy okai vannak én nyomorúságomnak: Mert az álnok világ hízelkedésinek, hittem csalárdságának Az ő szép szavának, sok ajándékának, nékem kik bút hozának, Engemet mindenben ez világ kedvébe: jaj, Ím mibe hajtának!
+Jaj nékem, bűnösnek és gyarló embernek, ha rajtam nem könyörülsz, Az. én nagy bűnömért, hatalmas Istenem, nékem meg nem kegyelmezsz ; Soha nem lehet igy nékem vígasságom, hogyha bűnöm szerint versz, Már minek örüljek, felséges Ur Isten, ha velem jól nem tészesz?
+Hová legyek Uram, ha elhagysz engemet, kihez hajtsam fejemet? Föld kerekségében sehol nem találom, kire bízzam lelkemet; Nincsen itt e földön, ki elvenné rólam az én nagy sok bűnömet, De nagy félelemmel te hozzád kiáltok:- hallgasd meg kérésemet.
+Hová legyek immár, hatalmas Istenem, ily fogyott életemmel? Mert lám, Uram, hozzád sokszor felldálték keserves beszédemmel; Miért nyomoritál, én édes Istenem, most ez keserűséggel? Mit használok immár itt ez világ szerint bujdosó életemmel?
+Ó miért te, Uram, ennyi sok ideig a te szent személyedet, Reám nem forditád kegyelmedből a te kegyességedet? Én siralmim elől elforditád, Uram, a te szent füleidet; De ha meghallgatnál, megvigasztalhatnád az én nagy bús szivemet.
+Ne útálj meg, Uram, én sok bűneimért, számtalan esetimért, Mert méltónak vallom magamat mindenkor az én undokságimért A megbüntetésre és fel­serkentésre az én kényességimért; De nem vetsz el, Uram, szent szemeid elől az én érdemem szerént.
+Ezen kérlek téged, mennynek-földnek Ura, királyoknak Királya, Hogy mig e világban éltemet kívánod, azt csak Szentlelked. birja, Minden dolgaimat és én útaimat szüntelen igazgassa, Hogy te szent nevedet hozzám jóvoltodért én lelkem magasztalja.
+Ne bánkódjál lelkem, ne hagyd el magadat nagy keserű~edben, Ó én édes szivem, mit keseregsz bennem ily Igen életedben? Hagyd el a bánatot, végy nagy vígasságot a hatalmas Istenben: A nagy bánat-helyett ő ád jó örömet a Szentlélek Istenben.
+Dicsőség tenéked, magasságban, Isten, királyoknak Királya! Dicséret mondassék néked, Krisztus Jézus, minden uraknak Ural Velük egyetemben Szentlélek Úr Isten, mi lelkünknek világa: Teljes Szent­háromság, egy bizony Istenség, lelkeimnek boldogsága!
 #C
 Boldogok, akik lelki szegények, Szívből könyörögnek, Mert a mennyország adatik nékiek.
 Boldogok, akik sírván bánkódnak, És károkat vallnak, Mert Istentől ők megvigasztaltatnak.
@@ -1254,11 +1254,11 @@ Szólj hozzánk, Uram, csendesen És édesen; Félelmünk mindjárt széled, És
 Uram, végy minket kedvedbe, Szerelmedbe, S vigasztald meg szívünket. Tőlünk soha ne maradj el, Se ne hagyj el, Hanem fogjad kezünket.
 #C
 Tökéletes volt minden tekintetben, Mind amit. Uram. teremtél kezdetben. Az ember testét te alkotád szépen, és lelkét épen.
-Tenmagad képét adtad ő reája, Szent ártatlan­ság volt ékes ruhája, Bölccsé is tetted, hogy téged ismerne S élvén dícsérne.
-Első szüleink de félre térének, A kísértőnek mikor engedének, Már mi mindnyájan, kik tőlük ered­tdnk, BOnben születtünk.
-Tagjaink mind, és bennünk minden részek Res­tek a jóra, a gonoszra készek, Nincs erőnk s a jót, noha jónak hisszük, Véghez nem visszük.
-Fertőbe estUnk, Uram végy ki onnan, Szlilvén minket Szentlelkeddel újonnan; Ujftsd meg rajtunk, hogy legytlnk te néped, Isteni képed.
-
+Tenmagad képét adtad ő reája, Szent ártatlanság volt ékes ruhája, Bölccsé is tetted, hogy téged ismerne S élvén dícsérne.
+Első szüleink de félre térének, A kísértőnek mikor engedének, Már mi mindnyájan, kik tőlük eredtünk, Bűnben születtünk.
+Tagjaink mind, és bennünk minden részek Restek a jóra, a gonoszra készek, Nincs erőnk s a jót, noha jónak hisszük, Véghez nem visszük.
+Fertőbe estünk, Uram végy ki onnan, Szülvén minket Szentlelkeddel újonnan; Ujítsd meg rajtunk, hogy legyünk te néped, Isteni képed.
+#C
 Ó, áldandó Szentháromság! Nyögésemre figyelmezz. Jövel, siess, Főboldogság, Én Istenem, kegyelmezz! Ó, Uram, Uram, ne hagyj! Mert reménységem te vagy.
 Ím, körülvett már az ínség, Minden bűnöm rám tódult, :/: Szorongat a végső szükség, Fetrengek, mint egy bódult. Ó, szerelmes szent Atyám! Légy nékem erős bástyám.
 Ölelgess szent szerelmeddel, Örök szövetségedből, :/: Takargass be védelmeddel, Adj részt örökségedből: Nézz régi irgalmadra S egyetlenegy Fiadra.
@@ -1299,16 +1299,16 @@ Ne nézd mi bűneinket És gonoszságinkat, De tekintsd kegyelmesen Irgalmasság
 Azért néked könyörgünk, Felséges Úr Isten: Ne állj bosszút szertelen Mi gonosz bűnünkön.
 De minékünk megbocsáss Te szent Fiad által, Hogy mi idvezülhessünk Ő irgalma által.
 Hisszük, hogy meghallgattál Mi könyörgésünkben, Azért lelki örömmel Mi ezt mondjuk: Ámen.
-
+#C
 Sok nyavalyánkban Atyánkhoz kiáltunk, Mert segedelmet sehol sem találunk, Csak ő minékünk Atyánk és gyámolunk, Minden oltalmunk.
-Tégedet azért alázatos szivvel Kérünk: oltalmazz, Atyánk, jobbkezed del, & táplálj minket a te szent Igéddel: Lelki étellel.
+Tégedet azért alázatos szivvel Kérünk: oltalmazz, Atyánk, jobbkezeddel, & táplálj minket a te szent Igéddel: Lelki étellel.
 Itt evilágon miglen mi nyomorgunk, Csak segedelmed alá folyamodtunk, Mert igen kegyes Atyánk vagy minékünk: Minden életünk.
 Pokol ajtaja bünért reánk nyila, Hogy az Istennek haragja indúla, Minden nyavalya ottan reánk szálla: Bűnnek jutalma.
-Ha biineinket számlálod, Úr Isten, Senki közülünk nem mehet elődben, Mert mi fetrengünk számtalan sok bünben, Undok életben.
-Azért könyörgünk: ne nézd bűneinket, De tekints kegyes szemeiádel minket, A te Fiadért szeresa ingyen mmket, Szabadits minketl
-Ne tégy mi vélünk a mi bününk szerint, De tekints minket kegyességed szerint, A Krisztus Jézus kedves volta szerint, Érdeme szerint.
-Végy el mi rólunk ennyi sok inséget, Adj nékünk, kérünk, immár csendességet; Ne fogyatkozzunk el sok inségink közt: Adj nékünk erőtl
-Sok háborgásink lecsendesedjenek, Hogy hatalmasok tégedet féljenek, & mindenkoron téged ismerjenek Örök Ist.ennek.
+Ha bűneinket számlálod, Úr Isten, Senki közülünk nem mehet elődben, Mert mi fetrengünk számtalan sok bünben, Undok életben.
+Azért könyörgünk: ne nézd bűneinket, De tekints kegyes szemeiddel minket, A te Fiadért szeress ingyen minket, Szabadits minket!
+Ne tégy mi vélünk a mi bűnünk szerint, De tekints minket kegyességed szerint, A Krisztus Jézus kedves volta szerint, Érdeme szerint.
+Végy el mi rólunk ennyi sok inséget, Adj nékünk, kérünk, immár csendességet; Ne fogyatkozzunk el sok inségink közt: Adj nékünk erőt!
+Sok háborgásink lecsendesedjenek, Hogy hatalmasok tégedet féljenek, & mindenkoron téged ismerjenek Örök Istennek.
 Dicséret légyen az Atyának mennyben, Ö szent Fiának örök dicsőségben, & Szentléleknek velük egyetemben, Örökké, Ámen.
 #C
 Eltévedtem, mint juh, El-tévedtem, mint juh, A bűnösök útjára, Ó, segíts, Jézusom, Őriző pásztorom, Hogy ne jussak romlásra. Te ontál drága vért Elveszett juhokért, Viselj gondot a nyájra.
@@ -1336,14 +1336,14 @@ Ha minékünk sok bűnünk van, Istennek több kegyelme van, :/: Ő irgalmának 
 Életünknek rendiben körülvesz a halál; Segedelmet, kegyelmet lelkünk már hol talál? Csak nálad Urunk, Isten! Mert bánjuk bűnünk, mely miatt Haragvásod felgyúladt. Szent, igaz Úr Isten, Szent erős Úr Isten, Szent irgalmas megváltó Urunk, te nagy örök Úr: A keserű halálban ne hagyj immár elvesznünk! Irgalmazz nekünk!
 Pokol dühe támad ránk halálnak képében, Szabadítást ki nyujthat ilyen nagy ínségben? Csak te, mi Urunk, Isten. Felindítja nagy irgalmad ennyi bűn és ily bánat.  Szent, igaz Úr Isten, Szent erős Úr Isten, Szent irgalmas megváltó Urunk, te nagy örök Úr: A mély pokol lángjától ne hagyj kétségbe esnünk! Irgalmazz nekünk!
 Pokol rettentésébe kerget minket bűnünk; Kihez máshoz mehetnénk, hol megmenekülünk? Csak hozzád Urunk, Krisztus! Kiontád drága véredet bűnért tévén eleget. Szent, igaz Úr Isten, Szent erős Úr Isten, Szent irgalmas megváltó Urunk, te nagy örök Úr: Vigasztaló hitünktől ne hagyj minket el esnünk! Irgalmazz nekünk!
-
-Atya Úr Isten, könyörülj rajtam te nagy jóvol­todért, Sok bfineimet bocsásd meg nékem irgalmasságo­dért; Ne hagyj, Úr Isten, kérlek, elvesznem, a te szent nevedért.
-Imé, Úr Isten, mind talpig vagyok a blinben el6tted, Mint mer6 vérben befert6ztetett, dgy állok el6tted: M"mt a nyár-levél, úgy reszketek én féltemben tetőled.
-Anyám mikoron az ő méhében engemet fogada, Nagy siralommal és fájdalommal e világra hoza: Bün­beri fogada, róla reám is a bün elárada.
-Nincs hová lennem, nincs hová fognom elveszett fejemet, Féli, rettegi elbúsult lelkem igaz Istenemet: Vajjon mikoron mossa el rólam az én bfineimet?
-Ím te elődbe támasztom, Uram, az én büneimet: Lássad te magad, irgalmas Atyám, halálos sebemet; Kössed be nékem orvosságoddal keserves szivemet l
-Mely igen tiszta lennék, Úr Isten, ha meg­mosogatnál, Bizony, a napnál, holdnál, csillagnál: szeb1J lennék a hónál; Senki fehérebb nálam nem lenne, ha megtiszt1tanál.
-Hallgasd meg azért fohászkodását a te hIveid­nek, Kik most énvelem sirván-óhajtván, egrütt könyörögnek: Hatalmat venni ne hagyj mi rajtunk a mi büneinknek.
+#C
+Atya Úr Isten, könyörülj rajtam te nagy jóvoltodért, Sok bűneimet bocsásd meg nékem irgalmasságodért; Ne hagyj, Úr Isten, kérlek, elvesznem, a te szent nevedért.
+Imé, Úr Isten, mind talpig vagyok a bűnben előtted, Mint merő vérben befertőztetett, úgy állok előtted: Mint a nyár-levél, úgy reszketek én féltemben tetőled.
+Anyám mikoron az ő méhében engemet fogada, Nagy siralommal és fájdalommal e világra hoza: Bünben fogada, róla reám is a bün elárada.
+Nincs hová lennem, nincs hová fognom elveszett fejemet, Féli, rettegi elbúsult lelkem igaz Istenemet: Vajjon mikoron mossa el rólam az én büneimet?
+Ím te elődbe támasztom, Uram, az én büneimet: Lássad te magad, irgalmas Atyám, halálos sebemet; Kössed be nékem orvosságoddal keserves szivemet!
+Mely igen tiszta lennék, Úr Isten, ha meg­mosogatnál, Bizony, a napnál, holdnál, csillagnál: szeb1J lennék a hónál; Senki fehérebb nálam nem lenne, ha megtisztítanál.
+Hallgasd meg azért fohászkodását a te híveidnek, Kik most énvelem sirván-óhajtván, együtt könyörögnek: Hatalmat venni ne hagyj mi rajtunk a mi büneinknek.
 #C
 Bocsásd meg, Úr Isten, ifjúságomnak vétkét, Sok hitetlenségét, undok fertelmességét, Töröld el rútságát, minden álnokságát, Könynyebbítsd lelkem terhét.
 Az én búsult lelkem én nyavalyás testemben Tétova bujdosik, mint madár a szélvészben; Tőled elijedett, Tudván, hogy vétkezett, Akar esni kétségben.
@@ -1352,14 +1352,14 @@ Semmije sincs pedig, mivel elődbe menjen, Mivel jóvoltodért viszont téged ti
 Bátorítsad, Uram, azért biztató szóddal! Mit használsz szegénynek örök kárhozatjával? Inkább hadd dicsérjen E földön éltében Szép magasztalásokkal.
 Térj azért, én lelkem, kegyelmes Istenedhez, Szép könyörgésekkel béküljél szent kezéhez, Mert lám, hozzá fogad, Csak reá hagyd magad: Igen irgalmas Úr ez.
 Higgyünk mindörökké egyedül csak őbenne, Őrizkedjünk bűntől, ne távozzunk őtőle. Áldott az ő neve Örökké mennyekbe?, Ki már megkegyelmeze.
-
-Légy irgalmas, Úr Isten, minékünk, Mert elle­ned álnokúI vétkeztünk, Mégis benned vagyon remény­ségünk, Bár bününkkel téged ingerlettünk.
-Vedd el rólunk méltó haragvásod, :& mutassad nagy irgalmasságod, Hogy ismerjük meg ebből jóvol­tod: Vedd el rólunk ezenKépen átkod.
-Csak Mn a mi gyarló természetünk, Álnokság­ban, vétekben születtünk; Veszedelmes a mi földi éltünk, Elkárhozunk, hogyha meg nem térünk.
-Voltaképen enened vétkeztünk, Látásodra go­noszt cselekedtünk, Igaz vagy te,- nem ken kételked­nünk, Győzedelmes, ha megitéltetünk.
-DereWpen tisztitsál meg minket, Mosd el ró­lunk Fiadért bflnünket, :& elvesztett szép öltözetünket Ránk feladván, fogadd el lelkünket.
+#C
+Légy irgalmas, Úr Isten, minékünk, Mert ellened álnokúl vétkeztünk, Mégis benned vagyon reménységünk, Bár bününkkel téged ingerlettünk.
+Vedd el rólunk méltó haragvásod, :& mutassad nagy irgalmasságod, Hogy ismerjük meg ebből jóvoltod: Vedd el rólunk ezenképen átkod.
+Csak Mn a mi gyarló természetünk, Álnokságban, vétekben születtünk; Veszedelmes a mi földi éltünk, Elkárhozunk, hogyha meg nem térünk.
+Voltaképen ellened vétkeztünk, Látásodra gonoszt cselekedtünk, Igaz vagy te,- nem kell kételkednünk, Győzedelmes, ha megitéltetünk.
+DereWpen tisztitsál meg minket, Mosd el rólunk Fiadért bününket, :& elvesztett szép öltözetünket Ránk feladván, fogadd el lelkünket.
 Siess belénk új sziveket adni, Szentlelkeddel lelkünk megújitni, Tiszta hittel megajándékozni: Add örökké szent szinedet látni.
-
+#C
 Ó mennyeknek fényessége, és szenteknek dicsősége, Bfinösökllek reménysége, Egyetlen egy segítsége!
 Te előtted vallást teszfink, Hogy mi mindnyájan vétkeztünk, Méltó haragodba estünk, és örök halált érdemlünk.
 Mert imé már a mi bfinünk Hatalmasan regnál bennünk, Melyért a mi ellenségünk Követeli jussát bennünk.
@@ -1374,7 +1374,7 @@ Hallgasd meg én fohászkodásim Atyai nagy szerelmedből, :/: Bocsásd meg mind
 Ne büntess úgy, mint érdemlettem Tőled én undok bűnömmel, :/: Mert akkor nyilván el kell vesznem: Térj hozzám hát jó kedveddel. Én Istenem, én Istenem, Irgalmazz, kérlek, énnekem!
 Csak egy szót mondj, hogy újjá légyek, mondd ezt énnékem, bűnösnek: :/: ?Megengedtem, menj el békével, Meglásd, többé ne vétkezzél.? Én Istenem, én Istenem, Irgalmazz, kérlek, énnekem!
 Nincs kétségem, megvigasztaltál, Erősítéd én szívemet, :/: Könyörgésemben meghallgattál, Érzem már szent kegyelmedet. Én Istenem, én Istenem, Irgalmazz, kérlek, énnekem!
-En. 1:224
+#C
 Kegyelmezz meg nékünk, nagy Úr Isten, Ne hagyj minket elvesznünk bününkben, Kik mindenkor bízunk szent nevedben: Bününk szerint ne büntess tömlöcben I
 A te néped tenger vétkét vedd el, és fedezgesd bűnét kegyelmeddel, Mert szent Fiad megválta vérével, Nem akart 6 elvetni bÜDünkkeJ.
 Idvezit6 Isten, kérünk téged: Jelenjék meg rajtunk kegyességed, .Távozzék el rólunk itéleted, U:­gyen vélünk te szent istenséged.
@@ -1408,7 +1408,7 @@ Hozzád hajtjuk csak fejünket, Ó, mi édes Megváltónk, :/: Koporsónkba ha b
 Zörgetőknek megnyittatik Kegyelemnek ajtaja; :/: Megígérte az Úr Jézus, Hogy kérésünk megadja. Jövel, Jézus, és ne késsél, Már mellőlünk el ne térjél: Idvezíts, ó, Krisztusunk, Mi kegyelmes Jézusunk!
 #C
 Jehova, csak néked éneklek, ki volna más tehozzád fogható? Dícséretet csak néked zengek, csak téged áldlak, ó Mindenható! Jővel, segíts, én édes Jézusom, hogy könyörgésem mennybe feljusson!
-Ó vonj, Atyám, Fiadhoz engem, Hogy szent Fiad is hozzád elvigyen; :/: S mig jóvoltodat áldv. zengem, Keblem Szentlelked hajléka legyen; Add békességed ízét érzeni és dicséreted vigan zengeni!
+Ó vonj, Atyám, Fiadhoz engem, Hogy szent Fiad is hozzád elvigyen; :/: S mig jóvoltodat áldva zengem, Keblem Szentlelked hajléka legyen; Add békességed ízét érzeni és dicséreted vigan zengeni!
 Ha semmi mást nem kérek tőled, Csak amit Lelked által kérhetek, :/: Te szükségim beteljesited, Mert Jézus hozzád útat készitett, Ki gyötrelmével értem áldozott, És üdvösséget jussomúl hozott.
 Jó tudnom azt, hogy közbenjáróm Hű Jézusom, ki jobbod felől ül; :/: Ő általa, ha hitből várom, Kérésem nálad bizton teljesül ; Jó nékem, hogy mig tart ez életem, Szent neved vigan, áldva zenghetem!
 #C
@@ -1426,7 +1426,7 @@ Uram, a te igéd nekem A sötétben szövétnekem; Mind igazak és ámenek, Amik
 Bízom hozzád erős hittel, Hogy te mindent megcselekszel, Amit szent igédben ígérsz: Hogy kegyelmesen hozzám térsz, És megbocsátván bűneimet, Megadod örök életemet.
 E nagy jót neked köszönöm, Mely nekem arra ösztönöm, Hogy a Jézust, kiért velem Közöltetik a kegyelem, Tartsam lelkem megtartójának, Szeressem, engedvén szavának.
 Igazgass, Uram, engemet, Hogy megőrizzem hitemet; Ha von magához e világ, Én mint Krisztusba oltott ág, Tőle vegyem tápláltatásom, Míg az élők közt lesz lakásom.
-
+#C
 Hiszek a mennybéli egy Istenben, Mindenható és kegyelmes Atyában, Mennynek és földnek teremtő Urában, Ki mindent tart hd gondviseléSben.
 És az ő egyszülött szent Fiában, Jézus Krisztusban, a mi egy Urunkban, Aki a Szentlélektől fogantaték S Szüz Máriától ~isztán születék.
 Szenvede Pilátusnak alatta, FelfeszittetvéJl keresztre, meghala; Eltemettetvén poklokra leszálla, Harmadnap halálból feltámada.
@@ -1530,7 +1530,7 @@ Adj igaz fejedelmeket és keresztyén, bölcs tanitókat, Kik hirdessék akarato
 Áldott légy, árváknak atyja, Özvegyeknek kegyes birája, Tévelygőknek igazgatója, Szomorú szivek biztatója És vigasztalója!
 Bátoríts minket hitünkben, Adj szeretetet mi szívünkben, Tarts meg mindvégiglen ezekben, Hogy halálunknak idejében Ne essünk kétségben.
 De mehessünk az életre, Hol Atya Istennek felsége És a Fiúnak dicsősége Láttatik véled egyetembe' Örökkön-örökre.
-
+#C
 Dícséret a Szentháromságnak, Egy örök Istennek, Ki Ura mindennek És teremtője a világnak: Csak övé légyen a dicsőség És a tisztesség!
 Dicséret légyen az Atyának, Ki teremtett épen És takargat szépen Szárnyai alatt hatalmának, Sőt gondot tart bünös testemre S egész éltemre.
 Dicséret légyen a Fiúnak, Ki értem testté lett, S minden bünt eltorlött, És hozzám nagy-bö irgalmúnak Jelenti magát az életben S az itéletben.
@@ -1558,7 +1558,7 @@ Uram, ezer nyelvek kellenének számba, :/: Jóságod csudáit hogy vehessem sz�
 Felelj, kételkedő: ki mennydörög ott fent? :/: A szélvész harsogó zúgása kit jelent? A sík tenger vizét ki emeli hegyekké? A szárazföld színét ki süllyeszti völgyekké? Mindegyik éltető elem ím, felemelte Szavát, hogy van Isten: hát mit kételkedel te?
 Uram, munkáidról lészen dicséretem, :/: Míg tart az e végre adatott életem. Kérlek, vedd jó néven, ha egy gyarló féregnek Ajkai töredék dicséretet rebegnek! Te látod, mily buzgók bennem az indulatok, Melyeket jól érzek, ki nem magyarázhatok.
 Ó, ha kivetkezvén e testből idővel, :/: Állok széked előtt koronázott fővel, Több lesz énekemben az erő és méltóság, Magasztalván téged, ó, felséges valóság. Röpüljetek elő, kívánt idők, sebesen, Hogy örömeimben több változás ne essen!
-
+#C
 Nagy az Úr, ki fényes házát építette, :/: Ott fenn a számtalan egeknek felette, Hol sok ezer napok fénye­sítik pitvarát, A magasság s mélység határozzák udvarát: Újul a föld szlne vidám tekintetétől, Tengelyestől reszket bús gerjedezésétől.
 Dicsérjétek őtet, a mennyei boltok :/: Alatt, ó, csillagok, mik ott lámpásoltok; Ti napok seregi, világító fáklyátok Neve dicséreti között lobogtassátok; Ti sok rendü holdak, a bújdosó földekkel E nagy, erős Urat dícsérjétek énekkel.
 Énekeljen neki az egész természet, :/: Napkelet, dél, észak és a napenyészet; Kettőztessék meg a di­cséret, midőn annak Hangjai a hegyek felől vissza­pattannak; És te, ember, Kit ő tett e földön elsővé, Változz dicsőségét mindíg buzgó kútfővé.
@@ -1568,7 +1568,7 @@ Ha esők omlanak a földre záporral, :/: Ha az aszály miatt füstöl a föld p
 Ha elboritással az árvíz fenyeget, :/: Ha a dög­vész pusztít, ha a had rettegtet: Bízz benne s énekelj őnéki dícséretet, Mert híven szereti az emberi nemzetet; Ű a bölcs, ő tudja, néked mi használ, nem te: Győződj meg, hogy téged boldogságra teremte.
 Ei a kegyes lsten nem vet engem is el, :/: Rólam is hfiséges volta gondot visel; A kincs és dicsöség ha enyémek nem lettek: Igazság-vizsgáló lelket adott helyettek ; Adott külsö-belső ép érzékenységeket, Keze­imbe lantot, szájamba új éneket.
 Uram, amit adtál, tartsd meg azt számomra, :/: Több nem kívántatik én boldogságomra; én pedig mit adjak néked gyarló létemre, Háládatlanságom hogy ne térjen szememre'l Imádlak téged, bételvén szent félelemmel, & dícséretedet eggyé teszem éltemmel.
-
+#C
 Atya Úr lsten, rólad vallást tészek, Dícséretedre szám és szívem készek: Te vagy az erős, ki tudtál isteni Szóddal semmiből mindent teremteni; Amit fent salant szemeink szemlélnek, Általad vannak, mozognak és élnek.
 Világosság lőn parancsolatodra, A menny és a föld előállt egy szódra; A levegő eget kiterjesztetted, Azzal az egész földet körülvetted ; Szódra vált külön a föld a vízektől, ékesíttetvén fáktói és füvektől.
 A napot, holdat. és a csillagokat Te függesztetted fel, mint lámpásokat, A madaraknak te adtál szárnyakat, Te küldéd vízben lakni a halakat; A barmok testét élettel élesztéd, Az emberrel bölcs munkád bérekesztéd.
@@ -1604,7 +1604,7 @@ Valamíglen élsz ez árnyék világban, Szántszándékkal ne élj a gonoszság
 Sok jók közt a békességet szeressed, És éltedben mindenkor azt keressed; E világnak békességét ne nézzed, Az ördöggel ne légyen közösséged.
 A felséges Isten szemei vannak Igazakon, kik csak őbenne bíznak; Mindazok, kik tőle oltalmat várnak, Kérésükben mindig meghallgattatnak.
 Igen közel az Úr Isten azoknak, Töredelmes szívvel akik óhajtnak; Alázatos lélekkel akik járnak, Sok ínségből bizton megszabadulnak.
-
+#C
 Mely igen jó az Úr Istent dicsérni, Felségednek, én Uram, énekelni, Szent nevedet dicsérvén magasztalni És mindenütt e világon hirdetni.
 Igen reggel irgalmadat hirdetni, Igazságodról éjjel gondolkodni, Hegedűvel, orgonával zengetni, Minden éneklő szerszámmal tisztelni.
 Csudaképpen én vigasztalást vészek, Cselekedetidre hogyha tekintek, Kezeidnek munkájában örvendek, Teremtőmnek, megváltómnak éneklek.
@@ -3110,7 +3110,7 @@ Kijelentéd irgalmadban, Szentséges végvacsorádban, Hogy áldozattá lettél;
 Azért, akik tusakodnak, Bűneiken szomorkodnak És hittel reád néznek; :/: Idvezítésedet várják, Bűn előtt szívük bezárják, Megtérni igyekeznek; Kívánnak néked engedni. :/: Szent életben nevelkedni És futnak jóvoltodhoz : Azok, mint édes fiaid, Kebeleden nőtt juhaid, Méltók szent asztalodhoz.
 De a színes képmutatók, Bünt vetők, gonoszt aratók Innen távol menjenek; :/: Megtérni nem tudó szívek, Álnokságra felvont ívek E jóval ne éljenek. Ti, álnokságnak fiai, :/: Fussatok el, mert javai Az Úrnak nem tiétek; Ha éltek itt méltatlanul, A harag csalha­tatlanul Reátok száll, higyjétek.
 Hát lelkem, hallgasd Uradat, Próbáld meg tennenmagadat, Úgy járulj ez asztalhoz. :/: Higyj, térj meg. a bűnt útáljad, Az Istent féljed, szolgáljad, Fuss hozzá, mint köfalhoz. Uram, ezekre kész vagyok, :/: De hibáim sokak, nagyok, Rajtam nagy terhek vannak: O Jézus, engem ne hagyj el, Segélj, tőlem ne maradj el, Sőt válassz el magadnak.
-
+#C
 Ó, Istennek választott kedves népe, Kit ékesít szentséges lelki képe: Vigyázz te belsó ékességedre, Szépségedre.
 A te szemeid az Úrra nézzenek, Szent rendelési előtted légyenek, Az Úrnak kertje hogy virágozzék, Illatozzék.
 Szent Igéjét híven s tisztán hirdessed, Háza tisztaságát híven szeressed, A jókat vedd és tartsd kebeledben, Szerelmedben.

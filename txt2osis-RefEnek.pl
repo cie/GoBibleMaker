@@ -7,7 +7,7 @@ $name =~ s/\n$//;
 $title = <>;
 $title =~ s/\n$//;
 
-print "<osisText osisIDWork=\"$name\" osisRefWork=\"defaultReferenceScheme\" xml:lang=\"en\">
+print "<osisText osisIDWork=\"$name\" osisRefWork=\"defaultReferenceScheme\" xml:lang=\"hu\">
 	<header>
 		<work osisWork=\"$name\">
 			<title>$title</title>
@@ -47,6 +47,9 @@ while (<>) {
 		print "<div type=\"x-testament\">\n";
 		$book=0; $chapter=0; $testament=1;
         } else {
+                s/&/&amp;/;
+                s/</&lt;/;
+                s/>/&gt;/;
                 print "<verse>$_</verse>";
 	}
 }
